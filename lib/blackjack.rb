@@ -37,7 +37,7 @@ def initial_round
 end
 
 def hit?(card_total)
-    # code hit? here      # # code hit? here
+    # code hit? here    
     prompt_user
     case get_user_input
         when 's'
